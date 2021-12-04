@@ -1,3 +1,9 @@
+/*
+girilen string içerisindeki karaktetin alfabedeki bir sonraki karakterini getirir,
+eğer bu karakter sesli harf ise büyük harfe çevrilir. bunların dışındaki karakterler ise olduğu gibi geri döner.
+*/
+
+
 function codec(strParam){
   const alp_string="abcdefghijklmnopqrstuvwxyz";
   const vowels="aeiou"
