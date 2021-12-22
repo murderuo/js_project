@@ -12,17 +12,15 @@ function RunLength(str) {
   let str_arr=str.split("")
   const say_bakalim=(arr)=>arr.reduce((a,b)=>
   Object.assign(a,{[b]:(a[b]||0)+1}),{})
-  const result_obj=say_bakalim(str_arr)
-  console.log(result_obj)
   let result_str=""
-  for(v in result_obj){
-    result_str+=`${result_obj[v]}${v}`
+  for(v in say_bakalim(str_arr)){
+    result_str+=`${say_bakalim(str_arr)[v]}${v}`
   }
 
 
   return result_str; 
 
 }
-   
+//eksik 
 // keep this function call here 
 console.log(RunLength(readline()));
