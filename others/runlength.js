@@ -24,3 +24,11 @@ function RunLength(str) {
 //eksik 
 // keep this function call here 
 console.log(RunLength(readline()));
+
+/*
+1. For input "mouses" the output was incorrect. The correct output is 1m1o1u1s1e1s
+
+2. For input "yesssssnomaybe" the output was incorrect. The correct output is 1y1e5s1n1o1m1a1y1b1e
+
+3. For input "zzzaaappeefffffffmfgg" the output was incorrect. The correct output is 3z3a2p2e7f1m1f2g
+*/
