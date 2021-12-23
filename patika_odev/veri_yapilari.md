@@ -20,11 +20,11 @@ Adım: 2 3 4 8 7 9 5 15 6
 Adım: 2 3 4 5 7 9 8 15 6
 
 
-# Data Structures And Algorithms
+Data Structures And Algorithms
 
-## Project 2 - Merge Sort
+Project 2 - Merge Sort
 
-### [16,21,11,8,12,22] -> Merge Sort
+[16,21,11,8,12,22] -> Merge Sort
 
 **1. Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.**
 ```
