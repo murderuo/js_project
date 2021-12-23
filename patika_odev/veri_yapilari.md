@@ -8,10 +8,10 @@ Proje 1 [22,27,16,2,18,6] -> Insertion Sort
 2 – 6 – 16 – 18 – 22 – 27
 2 – 6 – 16 – 18 – 22 – 27
 
-**Big-O gösterimini yazınız.
+**Big-O gösterimini yazınız.**
 O(n^2) = 36
 
-**Time Complexity:
+**Time Complexity:**
 
 Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması. Best case: 2 – 6 Avarage case: 16 – 18 Worst case: 22 – 27
 
