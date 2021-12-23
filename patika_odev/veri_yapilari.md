@@ -27,7 +27,7 @@ Adım: 2 3 4 5 7 9 8 15 6
 
 Data Structures And Algorithms
 
-Project 2 - Merge Sort
+Proje 2 - Merge Sort
 
 [16,21,11,8,12,22] -> Merge Sort
 
@@ -48,7 +48,16 @@ Project 2 - Merge Sort
                     [8,11,12,16,21,22]    
 ```
 **2. Big-O gösterimini yazınız.**
-```
+
 n = 2^x
 x = logn ise O(nlogn)
+
+
+Proje 3
+
+**[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.**
+    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    Root: 5
+    Root'un sağında: 7
+    Root'un solounda: 3
 
