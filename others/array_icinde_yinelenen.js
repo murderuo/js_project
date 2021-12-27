@@ -13,6 +13,8 @@
 5. For input [0,0,0,0] the output was incorrect. The correct output is 3
 
 6. For input [1,2,3,4,5,6,7,7] the output was incorrect. The correct output is 1
+
+Have the function DistinctList(arr) take the array of numbers stored in arr and determine the total number of duplicate entries. For example if the input is [1, 2, 2, 2, 3] then your program should output 2 because there are two duplicates of one of the elements.
 */
 
 function ArrayChallenge(arr) { 
